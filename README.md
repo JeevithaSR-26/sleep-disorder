@@ -4,9 +4,13 @@ This project is a complete Machine Learning based web application that predicts 
 
 # Features:
 • Predicts sleep disorders using ML model
+
 • User-friendly web interface (Flask)
+
 • 10-level Physical Activity & Stress inputs
+
 • Instant health suggestions based on prediction
+
 • Real-time result display
 
 # Technologies Used:
