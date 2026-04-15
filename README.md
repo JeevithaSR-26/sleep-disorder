@@ -15,17 +15,26 @@ This project is a complete Machine Learning based web application that predicts 
 
 # Technologies Used:
 • Python
+
 • Flask (Web Framework)
+
 • Pandas (Data Processing)
+
 • Scikit-learn / XGBoost (ML Model)
+
 • Joblib (Model Saving & Loading)
+
 • HTML, CSS, Bootstrap (Frontend)        
 
 # Input Parameters:
 • Age, Gender, Occupation
+
 • Sleep Duration & Quality
+
 • Physical Activity Level (1–10)
+
 • Stress Level (1–10)
+
 • BMI, Heart Rate, Blood Pressure
 
 # Output:
